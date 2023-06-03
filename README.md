@@ -7,6 +7,11 @@
   Gatsby Minimal Starter
 </h1>
 
+## 🚀 My Portfolio
+
+Being built with Gatsby, GraphQL, ChakraUI and GSAP. Can't wait to share it, it looks really good already!😍
+
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
