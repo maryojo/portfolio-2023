@@ -20,6 +20,7 @@
     "@chakra-ui/react": "^2.7.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
+    "@lottiefiles/react-lottie-player": "^3.5.3",
     "framer-motion": "^10.12.16",
     "gatsby": "^5.10.0",
     "gsap": "^3.11.5",
